@@ -24,11 +24,11 @@ const Header = () => {
         <h1 className="text-center font-bold">CORAL</h1>
         <div className="flex justify-end gap-x-3">
             <button className="text-sm">
-              <i className="fa fa-user lg:hidden" />
+              <span className="lg:hidden"><i className="fa fa-user"/></span>
               <span className="hidden lg:block">Account</span>
             </button>
             <button className="text-sm">
-              <i className="fa fa-gear lg:hidden" />
+              <span className="lg:hidden"><i className="fa fa-gear"/></span>
               <span className="hidden lg:block">Setting</span>
             </button>
         </div>
