@@ -1,0 +1,81 @@
+{
+  "nav_items": [
+    {
+      "id": 1,
+      "name": "Jewelry & Accessories",
+      "path": ""
+    },
+    {
+      "id": 2,
+      "name": "Clothing & Shoes",
+      "path": ""
+    },
+    {
+      "id": 3,
+      "name": "Home & Living",
+      "path": ""
+    },
+    {
+      "id": 4,
+      "name": "Wedding & Party",
+      "path": ""
+    },
+    {
+      "id": 5,
+      "name": "Toys & Entertainment",
+      "path": ""
+    },
+    {
+      "id": 6,
+      "name": "Art & Collectibles",
+      "path": ""
+    },
+    {
+      "id": 7,
+      "name": "Craft Supplies & Tools",
+      "path": ""
+    }
+  ],
+  "products": [
+    {
+      "id": "1234",
+      "type": "Dress",
+      "name": "Adicolor Classics Joggers",
+      "image": "",
+      "currency": "$",
+      "price": "4.99"
+    },
+    {
+      "id": "123",
+      "type": "Dress",
+      "name": "Adicolor Classics Joggers",
+      "image": "",
+      "currency": "$",
+      "price": "4.99"
+    },
+    {
+      "id": "134",
+      "type": "Dress",
+      "name": "Adicolor Classics Joggers",
+      "image": "",
+      "currency": "$",
+      "price": "4.99"
+    },
+    {
+      "id": "234",
+      "type": "Dress",
+      "name": "Adicolor Classics Joggers",
+      "image": "",
+      "currency": "$",
+      "price": "4.99"
+    },
+    {
+      "id": "235",
+      "type": "Dress",
+      "name": "Adicolor Classics Joggers",
+      "image": "",
+      "currency": "$",
+      "price": "4.99"
+    }
+  ]
+}
